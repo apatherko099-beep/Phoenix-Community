@@ -1,0 +1,22 @@
+{
+  "ratings": [],
+  "statistics": {
+    "totalRatings": 0,
+    "averageRating": 0,
+    "ratingDistribution": {
+      "5": 0,
+      "4": 0,
+      "3": 0,
+      "2": 0,
+      "1": 0
+    },
+    "lastUpdated": "2024-01-01T00:00:00Z"
+  },
+  "metadata": {
+    "serverName": "Phoenix community",
+    "serverInvite": "https://discord.gg/4uS8sv3RrA",
+    "description": "مجتمع Discord الإبداعي والتقني للمطورين والمصممين",
+    "createdAt": "2025-01-01T00:00:00Z",
+    "version": "1.0.0"
+  }
+}
